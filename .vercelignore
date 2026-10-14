@@ -1,0 +1,6 @@
+.git/
+archive/
+metadata/
+README.md
+SHA256SUMS
+.env*
